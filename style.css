@@ -1,0 +1,12 @@
+body {
+    background-image: url(R.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kozepre {
+    color: white;
+    text-align: center;
+}
+.kep {
+    float: left;
+}
